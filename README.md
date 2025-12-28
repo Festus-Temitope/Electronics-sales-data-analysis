@@ -1,5 +1,7 @@
 # 📊 Electronics Store Sales Analysis (Excel)
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/22b5e88b-3e2f-4ad9-85c6-f9591ebf2493" />
+
 ## 📌 Project Overview
 This project analyzes an electronics store sales dataset using Microsoft Excel to understand sales trends, product performance, regional strength, customer contribution, and pricing behavior. The analysis combines pivot tables, charts, dashboards, and correlation analysis to support data-driven conclusions.
 
