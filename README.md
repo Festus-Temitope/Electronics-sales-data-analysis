@@ -88,4 +88,4 @@ Electronics Store Sales Dataset – Kaggle
 ## 📎 Author
 Instrumentation & Technical Sales Engineer  
 Excel | Sales Analytics | Data Analysis
-i am open to collaboration on data-driven projects, includin data analysis, visualization, pivot tables, Power BI dashboards, and correlation analysis. You can reach me via email [festustemitope117@gmail.com] 
+i am open to collaboration on data-driven projects, includin data analysis, visualization, pivot tables, and correlation analysis. You can reach me via email [festustemitope117@gmail.com] 
